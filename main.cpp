@@ -30,6 +30,9 @@ int main()
     };
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "Szia Balint, nagyon jo ez a program!!!" << std::endl;
+
     return 0;
 
     // A kód több pontján hiányoztak a sorzáró pontosvesszők
